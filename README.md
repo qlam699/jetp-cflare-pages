@@ -1,2 +1,1 @@
-# bibica.net-jetpack-cloudflare-pages
-CD
+# jetpack-cloudflare-pages
